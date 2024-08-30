@@ -13,5 +13,5 @@ We're going to take the following approach:
 
 It is available on Kaggle. [Link](https://www.kaggle.com/competitions/nlp-getting-started/overview)
 
-The code below is the copy of [Link](https://www.kaggle.com/code/nabeelparuk/nlp-disaster-tweet-sentiment-analysis)
+The code in the notebook is the copy of [Link](https://www.kaggle.com/code/nabeelparuk/nlp-disaster-tweet-sentiment-analysis)
 > This is attempt of understanding the real time working on a NLP problem
